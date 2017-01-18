@@ -1,0 +1,22 @@
+{
+  "name": "asteridux",
+  "version": "1.0.0",
+  "description": "Library starter for all asteridux projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntJanus/asteridux.git"
+  },
+  "author": "Antonin Januska <antonin@antjanus.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AntJanus/asteridux/issues"
+  },
+  "homepage": "https://github.com/AntJanus/asteridux#readme",
+  "devDependencies": {
+    "standard": "8.6.0"
+  }
+}
