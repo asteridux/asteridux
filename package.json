@@ -4,8 +4,11 @@
   "description": "Library starter for all asteridux projects",
   "main": "index.js",
   "scripts": {
+    "release": "standard-version",
+
     "build": "webpack",
     "watch:build": "webpack --watch",
+
     "test": "jest",
     "test:watch": "jest --watch"
   },
