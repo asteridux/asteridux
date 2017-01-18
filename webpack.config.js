@@ -1,5 +1,5 @@
 var path = require('path');
-var webpack = require('wepack');
+var webpack = require('webpack');
 
 module.exports = {
   cache: true,
@@ -13,7 +13,7 @@ module.exports = {
      {
       test: /\.js?$/,
       exclude: /(node_modules)/,
-      loader: 'babel-loader'
+      loader: 'babel-loader',
       options: {
         cacheDirectory: true
       }
