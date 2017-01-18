@@ -2,9 +2,11 @@
   "name": "asteridux",
   "version": "1.0.0",
   "description": "Library starter for all asteridux projects",
-  "main": "index.js",
+  "main": "./build/lib.js",
   "scripts": {
     "release": "standard-version",
+
+    "prepublish": "npm run build",
 
     "build": "webpack",
     "watch:build": "webpack --watch",
