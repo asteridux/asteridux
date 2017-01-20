@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AntJanus/asteridux.git"
+    "url": "git+https://github.com/asteridux/asteridux.git"
   },
   "author": "Antonin Januska <antonin@antjanus.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AntJanus/asteridux/issues"
+    "url": "https://github.com/asteridux/asteridux/issues"
   },
-  "homepage": "https://github.com/AntJanus/asteridux#readme",
+  "homepage": "https://github.com/asteridux/asteridux#readme",
   "devDependencies": {
     "babel-core": "6.21.0",
     "babel-jest": "18.0.0",
