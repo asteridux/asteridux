@@ -4,6 +4,7 @@
   "description": "Library starter for all asteridux projects",
   "main": "./build/lib.js",
   "scripts": {
+    "release:init": "standard-version --first-release",
     "release": "standard-version",
     "prepublish": "npm run build",
     "build": "webpack",
